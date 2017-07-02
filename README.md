@@ -83,3 +83,5 @@ getting cached data
           [,1]      [,2]
 [1,] 1.0666667 0.2666667
 [2,] 0.2666667 1.0666667
+
+## Hard task. Trying to learn. Helped by Gustav W Delius Git.
